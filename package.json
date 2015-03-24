@@ -1,0 +1,9 @@
+{
+  "name": "pharmedio-socket",
+  "version": "0.0.1",
+  "description": "All in one socket solution for Pharmedio",
+  "dependencies": {
+    "socket.io": "^1.3.5",
+	"express": "4.10.2"
+  }
+}
